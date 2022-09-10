@@ -12,6 +12,10 @@ public class String_Reverse {
 		System.out.println("m1");
 		System.out.println("I love you");
 	}
+	public void m222() {
+		System.out.println("m2");
+		System.out.println("I miss you");
+	}
 
 	public static void main(String[] args) {
 		String_Reverse ob=new String_Reverse();
